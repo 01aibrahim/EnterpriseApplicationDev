@@ -1,3 +1,3 @@
 # EnterpriseApplicationDev
 
-A new branch is created for each tutorial 
+This is a third year repository of my work during the module Enterprise Application Development.
