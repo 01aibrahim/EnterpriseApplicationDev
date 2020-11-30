@@ -1,0 +1,12 @@
+﻿<Application x:Class="wpfAibrahimW1680174.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:wpfAibrahimW1680174"
+             StartupUri="Account.xaml">
+
+
+    
+    <Application.Resources>
+    </Application.Resources>
+</Application>
+
